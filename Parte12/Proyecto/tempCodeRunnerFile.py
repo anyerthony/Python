@@ -1,0 +1,2 @@
+lores validos')
+            print()
