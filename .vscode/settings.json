@@ -7,7 +7,7 @@
 
     "code-runner.executorMap": {
 
-        "python": "C:\\Users\\Anyerson\\Documents\\Python\\Scripts\\activate.bat && python -u"
+        "python": "C:\\Users\\admin\\Documents\\PythonGit\\Python\\Scripts\\activate.bat && python -u"
 
     },
 
